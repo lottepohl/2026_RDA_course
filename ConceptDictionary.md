@@ -22,3 +22,7 @@
 - branches are the main tool to collaborate inside a repository
 - for each new feature, a new branch should be created
 - no one should ever work on the main branch; this is the working version on github and should only be updated with working new features (through merging a feature branch into the main branch)
+
+
+## Why collaborations?
+To work on different solutions, minimize overlaps and conflicts.
