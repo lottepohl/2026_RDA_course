@@ -17,3 +17,8 @@
 
 - I am working on the main to create a new commit.
 - But then after I am rebasing my lp_test1 branch on top of main so that the commit history is linear again
+# Branching
+
+- branches are the main tool to collaborate inside a repository
+- for each new feature, a new branch should be created
+- no one should ever work on the main branch; this is the working version on github and should only be updated with working new features (through merging a feature branch into the main branch)
