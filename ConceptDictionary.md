@@ -12,3 +12,8 @@
 
 - Creating an empty remote repo on gh: On gh website.
 
+
+# Rebase
+
+- I am working on the main to create a new commit.
+- But then after I am rebasing my lp_test1 branch on top of main so that the commit history is linear again
