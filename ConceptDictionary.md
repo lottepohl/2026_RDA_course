@@ -28,3 +28,6 @@
 
 To start a collaboration the first steps are online, on GitHub: you have to go to the Settings of the project (not to be confused with the General Settings) and search for the person and invite. Then the person accepts and voila, you're collaborating.
 When you are invited to collaborate in someone else's project and you accept, you have to clone the repo to local.
+
+MatSas contribution: To work on different solutions, minimize overlaps and conflicts.
+
