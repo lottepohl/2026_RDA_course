@@ -8,4 +8,7 @@ a new change
 hahahhahahahaaha
 
 Favourite song? Of the concert and in general?
-mhhhhh reliquia I think!
+mhhhhh reliquia I think! - And yours?
+
+You want to avoid conflict uh?
+Yesss always conflict avoidant....Not good behaviour I knowwww
